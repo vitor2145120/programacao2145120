@@ -1,6 +1,6 @@
 /*
  ============================================================================
- Name        : ficha.c
+ Name        : c.c
  Author      : 
  Version     :
  Copyright   : Your copyright notice
